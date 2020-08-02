@@ -1,0 +1,103 @@
+﻿@charset "utf-8";
+
+/** 全局样式 **/
+.FrontProducts_generalSearch01-d1_c1 {
+	width:100%;
+	margin:0 auto;
+	overflow:hidden;
+	clear:both;
+	text-align:left;
+	
+}
+.FrontProducts_generalSearch01-d1_c1 span {
+	padding:0 3px;
+}
+.FrontProducts_generalSearch01-d1_c1 span.keyword,.FrontProducts_generalSearch01-d1_c1 span.category {
+	display:inline-block;
+	line-height:21px;
+	padding-bottom:0px;
+	*+margin-top:0px;
+	_margin-top:0px;
+}
+.FrontProducts_generalSearch01-d1_c1 span.keyword{
+	padding-left:0px;
+	float:left;
+}
+.FrontProducts_generalSearch01-d1_c1 span.keyword span{
+display:none;
+}
+/** 下拉列表 样式 **/
+.FrontProducts_generalSearch01-d1_c1 select {
+	vertical-align:middle;
+}
+/** 输入框 样式 **/
+.FrontProducts_generalSearch01-d1_c1 .input {
+	border:0px solid #00b9ef;
+	height:35px;
+	line-height:35px;
+	vertical-align:middle;
+}
+/** 输入框  鼠标放上去 样式 **/
+.FrontProducts_generalSearch01-d1_c1 .input-light {
+	border:1px solid #003ccc;
+}
+/** 输入框字体 样式 **/
+.FrontProducts_generalSearch01-d1_c1 .input-gray {
+	background:none;
+	width:170px;
+	padding-left:10px;
+	color:#666;
+	font-size:12px;
+	font-family:"微软雅黑", "宋体", "黑体";
+}
+
+.FrontProducts_generalSearch01-d1_c1 .input-keyword {
+	color:gray;
+}
+/** 输入框宽度 样式 **/
+.FrontProducts_generalSearch01-d1_c1 .input-width {
+	width:50px;
+}
+.FrontProducts_generalSearch01-d1_c1 .input-width2 {
+	width:100px;
+}	
+/** 搜索按钮 默认样式 **/
+/*.FrontProducts_generalSearch01-d1_c1 .button {
+	height:23px;
+	line-height:23px;
+	border:0;
+	text-align:center;
+	font-weight:bold;
+	font-size:12px;
+	vertical-align:middle;
+}
+.FrontProducts_generalSearch01-d1_c1 .button-on1 {
+	background:url(../images/btn-blue1-03_1.gif) left top no-repeat;
+	width:50px;
+	color:#fff;
+}
+.FrontProducts_generalSearch01-d1_c1 .button-on2 {
+	background:url(../images/btn-gray1-04.gif) left top no-repeat;
+	width:65px;
+	color:#898989;
+}*/
+/** 搜索按钮 鼠标放上去 样式 **/
+/*.FrontProducts_generalSearch01-d1_c1 .button-up1 {
+	background:url(../images/btn-blue1-04_1.gif) left top no-repeat;
+	width:50px;
+	color:#fff;
+}
+.FrontProducts_generalSearch01-d1_c1 .button-up2 {
+	background:url(../images/btn-blue1-05_1.gif) left top no-repeat;
+	width:65px;
+	color:#0068b7;
+}*/
+/** 搜索条件 样式 **/
+.FrontProducts_generalSearch01-d1_c1 span.condition {
+}
+/** 按钮区域 样式 **/
+.FrontProducts_generalSearch01-d1_c1 span.search1 {
+	padding-left:0px;
+	display:block;
+	float:left;
+}

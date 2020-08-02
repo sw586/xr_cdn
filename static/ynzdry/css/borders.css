@@ -1,0 +1,20 @@
+﻿@charset "utf-8";
+/*************************************
+* 文件名称：borders.css
+* 作   者：界面设计制作部
+* 创建日期：2008-2-19
+* 最后修改：name/ 第X行 / yyyy-mm-dd
+* 文件版本：UI CSS Frameworks Beta
+* 内容概要: 框架公用样式文件
+*************************************/
+@import url("border.css");
+@import url("border_1.css");
+@import url("border_2.css");
+@import url("border_3.css");
+@import url("border_4.css");
+@import url("border_5.css");
+
+@import url("border_6.css");
+@import url("border_7.css");
+@import url("border_8.css");
+@import url("border_9.css");

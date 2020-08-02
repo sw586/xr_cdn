@@ -1,0 +1,97 @@
+﻿@charset "utf-8";
+/*************************************
+* 文件名称：border.css
+* 作   者：界面设计制作部
+* 创建日期：2009-4-1
+* 最后修改：name/ 第X行 / yyyy-mm-dd
+* 文件版本：UI CSS Frameworks Beta
+* 内容概要:装饰器样式
+*************************************/
+/*装饰器共用设置*/
+.border_01{padding:0;position:relative;text-align:left;width:100%;}
+/*顶部*/   
+.border_01 .border_01-topr {
+	background:url(../images/border-topr.jpg) right top no-repeat;
+	height:27px;
+	line-height:27px;
+}
+.border_01 .border_01-topl {
+	background:url(../images/border-topl.jpg) left top no-repeat;
+	height:27px;
+	line-height:27px;
+}
+.border_01 .border_01-topl h3 {
+	font-size:12px;
+	color:#5B5B5B;
+	padding:0 0 0 15px;
+	margin:0;
+}
+/*中部*/
+.border_01 .border_01-mid {
+	border:1px solid #DBDFEA;
+	border-top:none;
+}
+.border_01 .borderContent {
+	padding:10px;
+}
+/*装饰器的标题*/  
+/*装饰器的标题*/  
+.border_01 .comptitle_01 {
+	height:25px;
+	position: absolute;
+	left: 7px;
+	top: 7px;
+	width:98%;
+}
+.border_01 .comptitle_01 strong{
+	font-weight:bold;
+	float:left;
+	margin-left:5px;
+	font-style:normal;
+	text-decoration:none;
+	
+	width:45%;
+	word-break:break-all;
+	text-align:left;
+	
+}
+.border_01 .comptitle_01 .titlestyle_01{color:#000;font-style:normal;font-weight:bold;text-decoration:none;}
+
+.border_01 .comptitle_01 strong img {
+	vertical-align: middle;
+	margin-right: 5px;
+	width:20px;
+	height:20px;
+}
+.border_01 .comptitle_01 em {
+	font-style: normal;
+	float: right;
+	font-weight: normal;
+}
+/* 扩展链接 */
+.border_01 .comptitle_01 em span.extendLink{
+	text-align: right;
+	font-size:12px;
+	margin-right: 8px;
+}
+.border_01 .comptitle_01 em span.moreLink{
+	font-style: normal;
+	font-weight: normal;
+}
+/* 更多 */
+.border_01 .compmore_01 {
+	clear: both;
+	text-align: right;
+	font-size:12px;
+	margin-right: 10px;/*text-align: left;*/
+}
+/* 扩展链接 */
+.border_01 .compmore_01 .extendLink{
+	text-align: right;
+	font-size:12px;
+	margin-right: 10px;
+}
+.border_01 .compmore_01 .moreLink{
+	font-style: normal;
+	font-weight: normal;
+}

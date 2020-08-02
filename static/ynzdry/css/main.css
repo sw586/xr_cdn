@@ -1,0 +1,17 @@
+﻿
+
+header button.navbar-toggle { position: absolute; z-index: 10; float: none; background: #004593; padding: 10px; right: 0px; -moz-border-radius: 100%; -webkit-border-radius: 100%; border-radius: 100%; width: 44px; height: 44px; }
+header button.navbar-toggle .icon-bar { background: #fff; }
+header .navbar-collapse { padding: 0; }
+header ul#navigation {position: absolute;
+    background: url(../images/nav_bj.png) center bottom no-repeat; margin-right: 125px;
+    width: 768px;
+    height: 64px;}
+header ul#navigation li { line-height: 49px; }
+header ul#navigation li a { height: 80px; font-size: 16px; color: #004593; background: none; }
+header ul#navigation li a span { position: relative; top: 32px; }
+header ul#navigation li a:hover { color: #eb3341; }
+header ul#navigation li.active a { display: block; color: #eb3341; background: url("../images/nav_a_hover.png") center center no-repeat; background-size: 100%; }
+header.inner { height: 276px; }
+
+

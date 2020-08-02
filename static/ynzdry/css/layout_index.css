@@ -1,0 +1,65 @@
+﻿@charset "utf-8";
+/*************************************
+* 文件名称：layout.css
+* 作   者：界面设计制作部
+* 创建日期：2009-4-1
+* 最后修改：name/ 第X行 / yyyy-mm-dd
+* 文件版本：UI CSS Frameworks Beta
+* 内容概要:一列版式样式
+*************************************/
+/*根容器*/  
+#box_root{float:none;width:100%; text-align:center; position:relative;}
+/*头部导航*/  
+#box_header{width:100%;}
+#box_header_top{width:1200px; float:none; margin:0 auto; text-align:left;  height:93px;}
+#box_header_dh{
+	width: 100%;
+	float: none;
+	text-align: center;
+}
+#box_header_dh_sub1{float:none;width:1200px; margin:0 auto; text-align:left;}
+/*底部版权*/  
+#box_footer{
+	width: 100%;
+	background:url(../images/index_14.jpg) repeat-x left top;
+	
+}
+/*主栏*/  
+#box_main{float:none;width:100%;background: #f4f4f7;}
+/*一列栏目*/  
+
+/*一列栏目的间距设置*/  
+#box_left .columnSpace { }
+
+
+
+ 
+#box_main_sub1{width:100%; }
+#box_main_sub2{width:100%; background:url(../images/index_02.jpg) no-repeat center top; margin-top:10px; margin-bottom:0px;}
+#box_main_sub3{width:100%; background:url(../images/index_03.jpg) no-repeat center top; height:540px;}
+#box_main_sub4{width:100%; background:url(../images/index_05.jpg) no-repeat center top; height:400px;}
+#box_header_sub1{float:left;}
+#box_header_sub2{float:right;padding-left:40px;width:435px; padding-top:30px;}
+#box_header_sub2_sub1{width:100%;}
+
+
+#box_header_sub2_sub1_sub2{float:left;width:220px; margin-top:15px;}
+#box_header_sub2_sub1_sub3{float:right;width:213px; background:url(../images/search.png) no-repeat left top; margin-top:15px; height:35px;}
+#box_main_sub2_sub1{float:none;width:1200px; margin:0 auto; text-align:left;}
+#box_main_sub2_sub1_sub1{width:100%; padding-top:75px;}
+#box_main_sub2_sub1_sub2{width:100%; padding-top:85px;}
+#box_main_sub3_sub1{float:none;width:1200px; margin:0 auto; text-align:left;}
+#box_main_sub3_sub1_sub1{width:100%; padding-top:105px;}
+#box_main_sub3_sub1_sub2{width:100%; padding-top:25px;}
+#box_main_sub4_sub1{float:none;width:1200px; margin:0 auto; text-align:left;}
+#box_main_sub4_sub1_sub1{width:100%; padding-top:70px;}
+#box_main_sub4_sub1_sub2{width:100%;}
+#box_footer_sub1{float:none;width:1200px; background:url(../images/index_12.jpg) no-repeat left top; text-align:left; margin:0 auto; height:277px;}
+
+#box_footer_sub1_sub1{float:left;width:160px; }
+#box_footer_sub1_sub2{float:left;width:1015px; padding-left:25px;}
+#box_footer_sub1_sub2_sub1{width:100%;}
+#box_footer_sub1_sub2_sub2{width:100%; padding-top: 0px; font-size: 14px; padding-bottom: 15px;}
+#box_footer_sub1_sub2_sub3{width:100%; padding-top: 30px; padding-bottom: 25px; font-size: 12px;}
+#box_footer_sub1_sub2_sub4{width:100%; padding-top: 20px; }
+#box_footer_sub1_sub2_sub6{float:none;width:100%;}

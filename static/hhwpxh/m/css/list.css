@@ -1,0 +1,210 @@
+﻿body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+html {
+	-webkit-tap-highlight-color: rgba(255,255,255,0);
+}
+body {
+	margin: 0 auto;
+	max-width: 640px;
+	background-color: #f5f5f5;
+	color: #333;
+	font-size: 12px;
+	font-family: '微软雅黑', 'Microsoft YaHei';
+	-webkit-text-size-adjust: none;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+}
+a, a:active, a:focus, a:hover, a:visited {
+	text-decoration: none;
+}
+img {
+	vertical-align: top;
+	width: 100%;
+	height: auto;
+}
+a, img {
+	-webkit-touch-callout: none;
+}
+li, ol, ul {
+	list-style: none;
+}
+button, input[type=submit], input[type=button], label, select {
+	cursor: pointer;
+}
+button, input[type=button], input[type=number], input[type=password], input[type=text], select, textarea {
+	outline: 0;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	font-size: 15px;
+	font-family: '微软雅黑', 'Microsoft YaHei';
+	resize: none;
+	appearance: none;
+	-webkit-appearance: none;
+}
+.clearfix:after {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	height: 0;
+	content: " ";
+}
+.clearfix {
+	zoom: 1;
+}
+.list {
+	margin-bottom: 10px;
+	background: #fff;
+}
+.list h3 {
+	padding: 10px;
+	height: 20px;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+}
+.list ul {
+	padding: 0 10px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+.list li {
+	position: relative;
+	padding: 15px 0;
+	border-bottom: 1px solid #ddd;
+}
+.list li:last-child {
+	border-bottom: 0;
+}
+.list li img {
+	float: right;
+	width: 90px;
+	height: 68px;
+	margin-left: 10px;
+}
+.list li .list-txt {
+	height: 68px;
+}
+.list li .list-txt h4 {
+	display: -webkit-box;
+	overflow: hidden;
+	height: 48px;
+	color: #333;
+	text-overflow: ellipsis;
+	font-size: 16px;
+	line-height: 24px;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	position: relative;
+	top: -5px;
+}
+.list li h4 i {
+	display: inline-block;
+	margin-left: 5px;
+	width: 13px;
+	height: 14px;
+	background: url(../images/icon.png) no-repeat -43px 0;
+	background-size: 150px;
+}
+.list li .time {
+	float: right;
+	margin-top: 2px;
+	padding-left: 15px;
+	background: url(../images/icon.png) no-repeat -138px -11px;
+	background-size: 150px;
+	color: #999;
+	font-size: 12px;
+	font-family: arial;
+	line-height: 18px;
+}
+.list li .tag {
+	position: absolute;
+	bottom: 15px;
+	left: 0;
+	padding: 0 2px;
+	border: 1px solid #999;
+	border-radius: 3px;
+	color: #999;
+	font-size: 12px;
+}
+.tui-list {
+	margin-bottom: 10px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #ddd;
+	background-color: #fff;
+}
+.tui-list h3 {
+	padding: 10px;
+	height: 20px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	font-size: 16px;
+	line-height: 20px;
+}
+.tui-list ul {
+	padding: 15px 5px 5px;
+}
+.tui-list li {
+	float: left;
+	width: 33.3333%;
+	height: 100px
+}
+.tui-list li a {
+	display: block;
+	margin: 0 5px;
+}
+.tui-list li .pic {
+	position: relative;
+}
+.tui-list li .pic img {
+	width: 100%;
+}
+.tui-list li .pic span {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+	width: 100%;
+	height: 23px;
+	background: rgba(0,0,0,.75);
+	color: #fff;
+	text-indent: 4px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 14px;
+	line-height: 23px;
+}
+.tui-list li p {
+	overflow: hidden;
+	text-align: center;
+	color: #f50;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	line-height: 20px;
+}
+.tui-list li p span {
+	font-family: arial;
+}
+.tui-list .tag {
+	margin-left: 10px;
+	padding: 1px 3px;
+	border: 1px solid #129aee;
+	border-radius: 3px;
+	color: #129aee;
+	font-size: 14px;
+}
+.tui-list .look-all {
+	display: block;
+	margin: 0 auto;
+	width: 112px;
+	height: 25px;
+	border: 1px solid #129aee;
+	border-radius: 25px;
+	color: #129aee;
+	text-align: center;
+	font-size: 14px;
+	line-height: 25px;
+}

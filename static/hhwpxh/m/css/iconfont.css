@@ -1,0 +1,138 @@
+﻿.icon-close:before {
+	content: "\e607";
+}/*关闭*/
+.icon-bulb:before {
+	content: "\e608";
+}/*灯泡*/
+.icon-eye:before {
+	content: "\e615";
+}/*眼睛*/
+.icon-atlas:before {
+	content: "\e617";
+}/*图集*/
+.icon-coordinate:before {
+	content: "\e64b";
+}/*地图*/
+.icon-left-big:before {
+	content: "\e64d";
+}
+.icon-right:before {
+	content: "\e60c";
+}
+.icon-right-big:before {
+	content: "\e64e";
+}
+.icon-down:before {
+	content: "\e60d";
+}
+.icon-up:before {
+	content: "\e61b";
+}
+.icon-person:before {
+	content: "\e606";
+}
+.icon-star:before {
+	content: "\e643";
+}
+.icon-star-gray:before {
+	content: "\e643";
+}
+.icon-ok:before {
+	content: "\e62a";
+}
+.icon-cancel:before {
+	content: "\e626";
+}
+.icon-gift:before {
+	content: "\e654";
+}
+.icon-tel:before {
+	content: "\e64a";
+}
+.icon-wx-connection:before {
+	content: "\e658";
+}
+.icon-clock:before {
+	content: "\e657";
+}
+.icon-address:before {
+	content: "\e64b";
+}
+.icon-atlas:before {
+	content: "\e617";
+}
+.icon-ok-a:before {
+	content: "\e659";
+}
+.icon-real-thing:before {
+	content: "\e65b";
+}
+.icon-compensate:before {
+	content: "\e662";
+}
+.icon-replace:before {
+	content: "\e663";
+}
+.icon-ensure:before {
+	content: "\e65b";
+}
+.icon-money:before {
+	content: "\e65c";
+}
+.icon-hour:before {
+	content: "\e65d";
+}
+.icon-home:before {
+	content: "\e661";
+}/*工地*/
+.icon-tool:before {
+	content: "\e660";
+}
+.icon-sofa:before {
+	content: "\e65e";
+}
+.icon-money-a:before {
+	content: "\e664";
+}
+.icon-crown:before {
+	content: "\e65f";
+}
+.icon-order:before {
+	content: "\e668";
+}/*订单*/
+.icon-order-a:before {
+	content: "\e669";
+}/*在线补单*/
+.icon-complaint:before {
+	content: "\e66a";
+}/*投诉管理*/
+.icon-sale:before {
+	content: "\e66b";
+}/*特价*/
+.icon-voucher:before {
+	content: "\e66c";
+}/*代金券*/
+.icon-home-a:before {
+	content: "\e673";
+}/*房屋信息*/
+.icon-column-a:before {
+	content: "\e66f";
+}/*信息有人回复*/
+.icon-column-b:before {
+	content: "\e670";
+}/*信息有人回复*/
+.icon-column-c:before {
+	content: "\e671";
+}/*信息有人回复*/
+.icon-column-d:before {
+	content: "\e672";
+}/*信息有人回复*/
+.icon-leader:before {
+	content: "\e66d";
+}/*施工班长*/
+.icon-user:before {
+	content: "\e674";
+}/*我的*/
+.icon-call:before {
+	content: "\e675";
+}/*呼叫*/
