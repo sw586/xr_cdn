@@ -1,0 +1,10 @@
+.manage-panel{ background:#fff; padding:0.3rem; margin:0.2rem 0 0; overflow:hidden;}
+.manage-panel .panel-title{ font-size:0.3rem; margin:0 0 0.2rem; border-left:0.05rem solid #00a0e9; padding-left:0.15rem; line-height:100%;}
+.manage-panel ul{ overflow:hidden;}
+.manage-panel ul li{ padding:0.2rem 0; border-bottom:1px solid #eee;}
+.manage-panel ul .name{ color:#666; margin-right:0.2rem;}
+
+.cloud-restart{overflow: hidden}
+
+.pwdnone{ width: 0.32rem; height: 0.32rem; display: inline-block; vertical-align: top; margin-left: 0.2rem; background:url("../images/pwdnone.png") center no-repeat; background-size:contain;}
+.pwdblock{ width: 0.32rem; height: 0.32rem; display: inline-block; vertical-align: top;margin-left: 0.2rem; background:url("../images/pwdblock.png") center no-repeat; background-size:contain;}

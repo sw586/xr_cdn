@@ -1,0 +1,299 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Sans-Serif;
+}
+ul {
+    list-style: none;
+}
+/* 通用icon */
+.user-label {
+    display: inline-block;
+    width: 0.7rem;
+    height: 0.7rem;
+    background: no-repeat center;
+    background-size: 0.7rem 0.7rem;
+    vertical-align: middle;
+}
+.user-verified-origin {
+    background-image: url(../images/home_icon_vip_gray.png);
+}
+.user-verify-personal {
+    background-image: url(../images/icon_vip_personal.png);
+}
+.user-verify-company {
+    background-image: url(../images/home_icon_vip_company.png);
+}
+.user-favorable-none {
+    background-image: url(../images/home_icon_hui.png);
+}
+.user-favorable-open {
+    background-image: url(../images/icon_hui_active.png);
+}
+/* 带icon状态文字 */
+.ny-state-icon {
+    display: inline-block;
+    padding-left: 0.625rem;
+    background: no-repeat left center;
+    background-size: 0.4rem 0.4rem;
+    font-size: 0.5rem;
+}
+
+/* 从 .clearfix 到  .affix 的样式 摘取自 Bootstrap v2.3.2 */
+.clearfix {
+    *zoom: 1;
+}
+.clearfix:before, .clearfix:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+.clearfix:after {
+    clear: both;
+}
+.pull-right {
+    float: right;
+}
+.pull-left {
+    float: left;
+}
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
+.invisible {
+    visibility: hidden;
+}
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+.text-center {
+    text-align: center;
+}
+.nowrap {
+    white-space: nowrap;
+}
+.normal-wrap {
+    white-space: normal;
+}
+.text-overflow {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/* 分页样式 begin*/
+.pager-wrapper {
+    margin-top: 10px;
+}
+.ny-pagination {
+    height: 1.25rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.25rem;
+    text-align: center;
+}
+.page-button {
+    float: left;
+    width: 3rem;
+    height: 1.25rem;
+    line-height: 1.27rem;
+    border-radius: 2px;
+    margin-left: 5px;
+    background: #009fd9;
+    font-size: 0.6rem;
+    color: #fff;
+    text-align: center;
+}
+.page-button.disabled,
+.page-button.disabled:active {
+    background-color: #f7f7f7;
+    color: #ccc;
+}
+.page-info {
+    height: 1.25rem;
+    line-height: 1.25rem;
+    font-size: 0.6rem;
+}
+
+.pager-prev:active,
+.pager-next:active {
+    color: #009fd9;
+    background: #fff;
+}
+.pager-prev.disabled,
+.pager-prev.disabled:active,
+.pager-next.disabled,
+.pager-next.disabled:active {
+    background: #fff;
+}
+.pager-next {
+    float: right;
+    margin-right: 5px;
+}
+/* 分页样式 end*/
+
+/* 服务器类详情页list公共样式 start */
+.detail-title{
+    height:1.8rem;
+    color:#00A3D9;
+    line-height:1.8rem;
+    text-indent: 1em;
+    background: #EEEEEE;
+}
+/* ui样式 */
+.detail-list{
+    padding: 0 0.5rem 0 0;
+    margin-bottom: 0.75rem;
+}
+/* 基本信息 */
+.detail-list-tit{
+    line-height: 1.85rem;
+    text-indent: 1em;
+    color:#333333;
+    background: url("../images/vertical-icon.png") no-repeat 1em center;
+    background-size: 4px 60%;
+}
+/* 列表的高度 */
+.detail-list-item{
+    line-height:1.95rem;
+}
+/* 描述 */
+.detail-label{
+    width:4.35rem;
+    color:#999999;
+    display: inline-block;
+}
+/* a标签按钮 */
+.detail-list .detail-btn{
+    padding:0.3rem;
+    margin: 0.55rem 0;
+    color:#fff;
+    border:0;
+}
+/* 操作样式 */
+.detail-operate{
+    line-height:2.5rem;
+}
+/* 服务器类详情页list公共样式 end */
+
+/* 服务器状态 */
+.server-state-opening {
+    background-image: url(../images/server_state_opening.png);
+}
+.server-state-run {
+    background-image: url(../images/server_state_run.png);
+}
+.server-state-paused {
+    background-image: url(../images/server_state_paused.png);
+}
+.server-state-stop {
+    background-image: url(../images/server_state_stop.png);
+}
+.server-state-fail {
+    background-image: url(../images/server_state_fail.png);
+}
+.server-state-upgrading {
+    background-image: url(../images/server_state_upgrading.png);
+}
+.server-state-loading {
+    background-image: url(../images/server_state_loading.gif);
+}
+/* 带icon状态文字 */
+.ny-state-icon {
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.state-icon-done {
+    background-image: url(../images/state_icon_correct.png);
+}
+.state-icon-money {
+    background-image: url(../images/state_icon_money.png);
+}
+.state-icon-waiting {
+    background-image: url(../images/state_icon_clock.png);
+}
+.state-icon-dealing {
+    background-image: url(../images/state_icon_dots.png);
+}
+.state-icon-fail {
+    background-image: url(../images/state_icon_cross.png);
+}
+.state-icon-error {
+    background-image: url(../images/state_icon_error.png);
+}
+.state-icon-reject {
+    background-image: url(../images/state_icon_reject.png);
+}
+.state-icon-examine {
+    background-image: url(../images/state_icon_edit.png);
+}
+.state-icon-evaluate {
+    background-image: url(../images/state_icon_flower.png);
+}
+.state-icon-payment {
+    background-image: url(../images/state_icon_card.png);
+}
+
+/*列表为空的情况*/
+.list-empty-box {
+    position: absolute;
+    width: 100%;
+    height: calc(100% - 2.95rem);
+}
+
+.list-empty-center {
+    margin-top: 25%;
+    text-align: center;
+}
+.list-empty-center h4 {
+    display: block;
+    color: #333;
+    font-size: 0.7rem;
+    margin: 0.75rem 0 0.55rem 0;
+}
+.list-empty-center p {
+    font-size: 0.5rem;
+    color: #999;
+    margin-bottom: 0.5rem;
+}
+.list-empty-center > i {
+    display: inline-block;
+    width: 4rem;
+    height: 4rem;
+}
+.list-empty-center .go-buy {
+    color: #009fd9;
+    border:1px solid #009fd9;
+    font-size: 0.6rem;
+    padding: 0.25rem 0.75rem;
+}
+
+.list-empty-center i.server-empty-icon {
+    background: url(../images/server-empty.png) no-repeat 0 0;
+    background-size: contain;
+}
+.list-empty-center i.db-empty-icon {
+    background: url(../images/db-empty.png) no-repeat 0 0;
+    background-size: contain;
+}
+.list-empty-center i.push-empty-icon {
+    background: url(../images/push-empty.png) no-repeat 0 0;
+    background-size: contain;
+}
+.list-empty-center i.message-empty-icon {
+    background: url(../images/message-empty.png) no-repeat 0 0;
+    background-size: contain;
+}
+.list-empty-center .btn-reset{
+    width: 4rem;
+    border: 1px solid #009fd9;
+    color: #009fd9;
+}
