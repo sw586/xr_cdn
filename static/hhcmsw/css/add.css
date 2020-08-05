@@ -1,0 +1,157 @@
+﻿/* 织梦58（dede58.com）做最好的织梦整站模板下载网站 */
+body {
+	background: #fff;
+}
+.zy_top {
+	width: 100%;
+	overflow: hidden;
+	padding: 40px 0;
+}
+.zy_top ul {
+	width: 120%;
+}
+.zy_top li {
+	width: 268px;
+	height: 356px;
+	overflow: hidden;
+	position: relative;
+	float: left;
+	margin-right: 42px;
+}
+.zy_bg {
+	width: 268px;
+	height: 356px;
+	background: url(../images/zy2.png) no-repeat;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.zy_p {
+	font-size: 12px;
+	color: #9b9b9b;
+	font-family: arial;
+	position: absolute;
+	top: 265px;
+	left: 0;
+	z-index: 999;
+	line-height: 26px;
+	width: 100%;
+	text-align: center;
+}
+.zy_p span {
+	display: block;
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #515151;
+}
+.zy_top li:hover .zy_bg {
+	background: url(../images/zy1.png) no-repeat;
+	transition-duration: 0.8s;
+}
+.zy_top li:hover .zy_p, .zy_top li.hover .zy_p span {
+	color: #FFFFFF;
+}
+.zy_top li.hover .zy_bg {
+	background: url(../images/zy1.png) no-repeat;
+	transition-duration: 0.8s;
+}
+.zy_top li.hover .zy_p, .zy_top li.hover .zy_p span {
+	color: #FFFFFF;
+}
+.zy_center {
+	font-size: 14px;
+	color: #686868;
+	line-height: 28px;
+	padding-bottom: 40px;
+}
+.zy_bottom {
+	width: 100%;
+	background: #FFFFFF;
+}
+.index_title {
+	padding: 35px 0;
+}
+.index_title .fl span {
+	font-size: 20px;
+	color: #009944;
+	font-family: Tahoma;
+}
+.index_title .fl em {
+	background: url(../images/3.png) no-repeat left center;
+	padding-left: 20px;
+	margin-left: 20px;
+	font-size: 16px;
+	color: #5b5b5b;
+}
+.ir_a a {
+	display: inline-block;
+	padding: 0 20px;
+	height: 30px;
+	border: 1px solid #c9c9c9;
+	margin-right: 15px;
+	text-align: center;
+	line-height: 30px;
+	color: #6a6a6a;
+	border-radius: 1.5em;
+	-moz-border-radius: 1.5em;
+}
+.ir_a a:hover {
+	color: #009944;
+	border: 1px solid #009944;
+}
+.ir_a a.hover {
+	color: #009944;
+	border: 1px solid #009944;
+}
+.index1_auto {
+	overflow: hidden;
+}
+.index1_auto ul {
+	width: 110%;
+}
+.index1_auto li {
+	font-size: 0;
+	width: 383px;
+	float: left;
+	margin-right: 25px;
+	margin-bottom: 25px;
+}
+.index1_auto p {
+	font-size: 10px;
+	color: #9b9b9b;
+	background: #FFFFFF;
+	padding: 10px 25px;
+	line-height: 24px;
+	background: #eeeeee;
+}
+.index1_auto p em {
+	display: block;
+	font-size: 16px;
+	color: #3c3c3c;
+	font-weight: bold;
+}
+.index1_auto p i {
+	width: 12px;
+	height: 12px;
+	display: block;
+	background: url(../images/1.png);
+	margin-top: 10px;
+}
+.index1_auto li:hover {
+	opacity: 1;
+	transition-duration: 0.5s;
+}
+.index1_auto li:hover p {
+	background: #009944;
+	color: #FFFFFF;
+	transition-duration: 0.5s;
+}
+.index1_auto li:hover p em {
+	color: #FFFFFF;
+	transition-duration: 0.5s;
+}
+.index1_auto li:hover p i {
+	background: url(../images/2.png);
+	transition-duration: 0.5s;
+}
