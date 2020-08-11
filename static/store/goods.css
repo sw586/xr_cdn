@@ -1,0 +1,80 @@
+
+.single-product-page-area{}
+.single-pro-main-image{
+    overflow:hidden;
+    margin-bottom:10px;
+}
+table td {
+    vertical-align: middle !important;
+}
+.single-pro-main-image img{
+    width: 100%;
+    height: 100%;
+}
+.single-pro-main-image a{
+    display:block;
+}
+.zoomWrapper, .zoomContainer{
+}
+.zoomWrapper img{
+    width:93.4% !important;
+    height:auto;
+}
+.zoomWindow{
+    border:2px solid #e1e1e1 !important;
+    left:470px !important;
+    top:0 !important;
+    width:600px !important;
+    height:500px !important;
+}
+ul.thubm-caro .owl-wrapper .owl-item{
+    padding: 0 5px 0 5px;
+}
+ul.thubm-caro .owl-wrapper{
+    margin-left: -2px;
+}
+ul.thubm-caro  {
+    text-align: center;
+}
+ul.thubm-caro li {
+    float: left;
+    margin-right: 10px;
+}
+ul.thubm-caro .owl-controls.clickable {
+    right: 0;
+    top: 37px;
+    width: 0;
+}
+.single-pro-thumb {
+    padding: 0;
+    margin-bottom:30px;
+}
+ul.thubm-caro .owl-controls.clickable .owl-prev, ul.thubm-caro .owl-controls.clickable .owl-next{
+    display: block;
+    height: 30px;
+    overflow: hidden;
+    width: 30px;
+    border: 1px solid #e1e1e1;
+    border-radius:50%;
+    transition:0.3s;
+}
+ul.thubm-caro .owl-controls.clickable .owl-prev:hover, ul.thubm-caro .owl-controls.clickable .owl-next:hover{
+    background-color:#3C3C3C;
+    border-color:#3C3C3C;
+}
+ul.thubm-caro .owl-controls.clickable .owl-prev:hover i, ul.thubm-caro .owl-controls.clickable .owl-next:hover i{
+    color:#fff;
+}
+ul.thubm-caro .owl-controls.clickable .owl-prev i, ul.thubm-caro .owl-controls.clickable .owl-next i{
+    line-height:26px;
+}
+ul.thubm-caro .owl-controls.clickable .owl-prev{
+    left: -457px;
+    margin: 0;
+    position: absolute;
+}
+ul.thubm-caro .owl-controls.clickable .owl-next{
+    margin: 0;
+    position: absolute;
+    right: 0;
+}

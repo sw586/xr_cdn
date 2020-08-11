@@ -80,7 +80,7 @@
     margin: 10px 0;
 }
 .dataTable>tbody>tr>td:first-child>label {
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 .dataTable>tbody>tr>td>label {
     margin-bottom: 0
