@@ -252,7 +252,7 @@ button {
 
 .scroller_page b {
     display: inline-block;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/3E.png) 100% 100% no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3E.png) 100% 100% no-repeat;
     background-size: 44px;
     margin-right: 26px;
     width: 21px;
@@ -433,7 +433,7 @@ button {
     position: relative;
     width: 142px;
     height: 166px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/d!.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/d!.png) 0 0 no-repeat;
     background-size: 100%;
     display: block;
     margin: 0 auto;
@@ -453,7 +453,7 @@ button {
     display: block;
     text-indent: -100em;
     overflow: hidden;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/8F.png) 50% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8F.png) 50% 0 no-repeat;
     background-size: 100%;
     height: 61px;
 }
@@ -976,7 +976,7 @@ h4.content_title {
     width: 56px;
     height: 82px;
     display: block;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/b1.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b1.png) 0 0 no-repeat;
     background-size: auto 100%;
     margin-top: -41px;
     cursor: pointer;
@@ -993,12 +993,12 @@ h4.content_title {
 }
 
 .block_images .scroller_wrap .slider_handle {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/b3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b3.png);
     top: 39%;
 }
 
 .block_product_list .slider_handle {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/b5.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b5.png);
 }
 
 .slider_handle.disabled {
@@ -1022,7 +1022,7 @@ h4.content_title {
     right: -25px;
     top: 50%;
     margin-top: 80px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/dE.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dE.png) 0 0 no-repeat;
     background-size: 100%;
     cursor: pointer;
     z-index: 5000;
@@ -1229,7 +1229,7 @@ h4.content_title {
     float: right;
     width: 64px;
     height: 64px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/e8.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e8.png) 0 0 no-repeat;
     margin-left: 11px;
     cursor: pointer;
     position: relative;
@@ -1761,7 +1761,7 @@ canvas {
 .block_prize_list .slider_handle {
     width: 27px;
     height: 47px;
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ed.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ed.png);
     background-size: 200%;
     margin-top: -30px;
 }
@@ -1822,11 +1822,11 @@ canvas {
 }
 
 .prize_cate_wrap .tab_item_content .bg_1 {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/ec.png) 50% 50% no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ec.png) 50% 50% no-repeat;
 }
 
 .prize_cate_wrap .tab_item_content .bg_2, .prize_cate_wrap .tab_item_content .bg_3 {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/ea.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ea.png) 0 0 no-repeat;
     background-size: 144px;
     display: none;
 }
@@ -2071,7 +2071,7 @@ canvas {
 .pagination .prev, .pagination .next {
     width: 23px;
     height: 39px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/cC.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cC.png) 0 0 no-repeat;
     background-size: 46px;
     border-radius: 0;
     position: absolute;
@@ -2101,7 +2101,7 @@ canvas {
 }
 
 .text_about_title {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c2.png);
     width: 599px;
     left: 69px;
     top: 63px;
@@ -2217,7 +2217,7 @@ canvas {
     position: relative;
     margin: 26px auto;
     overflow: hidden;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/bR.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bR.png) 0 0 no-repeat;
 }
 
 .web .water_column a:hover span, .m .water_column a.active span {
@@ -2451,7 +2451,7 @@ canvas {
 .y_item {
     width: 40px;
     height: 57px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/dz.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dz.png) 0 0 no-repeat;
     background-size: 100% 100%;
     color: #fff;
     margin: 0 5px 10px;
@@ -2470,7 +2470,7 @@ canvas {
     left: 50%;
     margin-left: -7px;
     top: -21px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/dA.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dA.png) 0 0 no-repeat;
     display: none;
 }
 
@@ -2501,7 +2501,7 @@ canvas {
 
 @media only screen {
     .y_item {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/7.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/7.svg);
     }
 
     .y_item i {
@@ -2556,7 +2556,7 @@ canvas {
     left: 16px;
     right: 16px;
     top: 65px;
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ds.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ds.png);
     max-width: 289px;
 }
 
@@ -2623,7 +2623,7 @@ canvas {
 }
 
 .contact_content .contact_item_text .content_title {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/8K.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8K.png) 0 0 no-repeat;
     background-size: 16px;
     padding-left: 25px;
     font-size: 1em;
@@ -2695,7 +2695,7 @@ canvas {
     display: block;
     padding-top: 142%;
     height: 0;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/a7.png) 50% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/a7.png) 50% 0 no-repeat;
     background-size: 100%;
 }
 
@@ -2747,31 +2747,31 @@ canvas {
 }
 
 .contact_tab_wrap .contact_tab_2 b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/a9.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/a9.png);
 }
 
 .contact_tab_wrap .contact_tab_3 b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ab.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ab.png);
 }
 
 .contact_tab_wrap .contact_tab_4 b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ad.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ad.png);
 }
 
 .page_wrap-about_lxwm .contact_tab_wrap .contact_tab_1 b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/af.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/af.png);
 }
 
 .page_wrap-about_tzzq .contact_tab_wrap .contact_tab_2 b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ah.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ah.png);
 }
 
 .page_wrap-about_hr .contact_tab_wrap .contact_tab_3 b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/aj.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aj.png);
 }
 
 .page_wrap-about_media .contact_tab_wrap .contact_tab_4 b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/al.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/al.png);
 }
 
 .page_wrap-about_tzzq .contact_content_inner h1 {
@@ -2875,7 +2875,7 @@ canvas {
 }
 
 .success_message i {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/9k.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9k.png) 0 0 no-repeat;
     background-size: 100px;
     width: 100px;
     height: 100px;
@@ -3018,7 +3018,7 @@ canvas {
     top: 0;
     bottom: 0;
     left: -31px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/8V.png) 0 0 repeat-y;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8V.png) 0 0 repeat-y;
     pointer-events: none;
 }
 
@@ -3041,19 +3041,19 @@ canvas {
 }
 
 .m .page_wrap-duty .banner_item_1 i, .page_wrap-duty .banner_item_2 i {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c5.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c5.png);
 }
 
 .m .page_wrap-duty .banner_item_2 i, .page_wrap-duty .banner_item_3 i {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c7.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c7.png);
 }
 
 .m .page_wrap-duty .banner_item_3 i, .page_wrap-duty .banner_item_4 i {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c9.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c9.png);
 }
 
 .m .page_wrap-duty .banner_item_4 i, .page_wrap-duty .banner_item_5 i {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dD.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dD.png);
 }
 
 .web .page_wrap-duty .banner_item, .web .page_wrap-duty .banner_item .image {
@@ -3236,23 +3236,23 @@ canvas {
 
 @media only screen {
     .product_no_mask_wrap .banner_item_mask_1 .banner_item {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dB.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dB.png);
     }
 
     .product_no_mask_wrap .banner_item_mask_2 .banner_item {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dC.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dC.png);
     }
 
     .product_mask_wrap .banner_item_mask_1 .banner_item {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/1m.jpg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/1m.jpg);
     }
 
     .product_mask_wrap .banner_item_mask_2 .banner_item {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/1p.jpg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/1p.jpg);
     }
 
     .product_mask_wrap .banner_item_mask {
-        -webkit-mask-image: url(http://dedeoss.2ht.cn/mzy/static/images/4.svg);
+        -webkit-mask-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/4.svg);
         -webkit-mask-position: top right;
         -webkit-mask-repeat: no-repeat;
         -webkit-mask-size: auto 100%;
@@ -3267,7 +3267,7 @@ canvas {
         left: -10px;
         right: 3%;
         margin-right: -1.56%;
-        background: url(http://dedeoss.2ht.cn/mzy/static/images/6.svg) 100% 0 no-repeat;
+        background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/6.svg) 100% 0 no-repeat;
         background-size: auto 100%;
     }
 }
@@ -3293,7 +3293,7 @@ canvas {
     right: -1px;
     top: 0;
     bottom: 0;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/5.svg) 100% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/5.svg) 100% 0 no-repeat;
     background-size: auto 100%;
 }
 
@@ -3326,7 +3326,7 @@ canvas {
 }
 
 .banner_item_mask .title_wrap b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cG.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cG.png);
     background-size: auto 200%;
 }
 
@@ -3335,7 +3335,7 @@ canvas {
 }
 
 .banner_item_mask_2 .title_wrap em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dy.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dy.png);
 }
 
 .web .banner_item_mask_2 .title_wrap:hover span, .m .banner_item_mask_2 .title_wrap.active span {
@@ -3354,11 +3354,11 @@ canvas {
 
 @media only screen {
     .banner_item_mask_1 .title_wrap em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/9.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9.svg);
     }
 
     .banner_item_mask_2 .title_wrap em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/7.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/7.svg);
     }
 }
 
@@ -3371,7 +3371,7 @@ canvas {
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.3),only screen and (min-device-pixel-ratio:1.3) {
     .banner_item_mask .title_wrap b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cQ.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cQ.png);
     }
 }
 
@@ -3401,7 +3401,7 @@ canvas {
 }
 
 .m .page_wrap-product .banner_item_mask_1 .banner_item {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/1A.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/1A.jpg);
 }
 
 .m .page_wrap-product .banner_item_mask .banner_item {
@@ -3476,7 +3476,7 @@ canvas {
 
 @media only screen {
     .page_wrap-product_mall .banner_wrap {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/1r.jpg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/1r.jpg);
         background-position: 30% 50%;
     }
 }
@@ -3493,7 +3493,7 @@ canvas {
     display: block;
     height: 189px;
     width: 428px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/e5.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e5.png) 0 0 no-repeat;
     background-size: 100%;
     transition: transform .6s ease;
     transform: translate3D(91px,0,0);
@@ -3509,15 +3509,15 @@ canvas {
 }
 
 .mall_block_wrap .mall_block_jd {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/d~.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/d~.png);
 }
 
 .mall_block_wrap .mall_block_mengniu {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/e1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e1.png);
 }
 
 .mall_block_wrap .mall_block_suning {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/e3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e3.png);
 }
 
 .mall_block_wrap i {
@@ -3561,7 +3561,7 @@ canvas {
 }
 
 .m .page_wrap-product_mall .banner_wrap {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/1tl.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/1tl.jpg);
 }
 
 .m .mall_block_wrap {
@@ -3587,7 +3587,7 @@ canvas {
     content: "";
     display: block;
     float: left;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/d1-.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/d1-.png) 0 0 no-repeat;
     width: 174px;
     height: 67px;
     background-size: 100%;
@@ -3626,31 +3626,31 @@ canvas {
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.3),only screen and (min-device-pixel-ratio:1.3) {
     .page_wrap-product_mall .banner_wrap {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/1s.jpg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/1s.jpg);
     }
 
     .m .page_wrap-product_mall .banner_wrap {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/1u1.jpg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/1u1.jpg);
     }
 
     .mall_block_wrap .mall_block_tmall {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/e6.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e6.png);
     }
 
     .mall_block_wrap .mall_block_jd {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/e0.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e0.png);
     }
 
     .mall_block_wrap .mall_block_mengniu {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/e2.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e2.png);
     }
 
     .mall_block_wrap .mall_block_suning {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/e4.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e4.png);
     }
 
     .m .mall_block_wrap a:before {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dj.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dj.png);
     }
 }
 
@@ -3728,7 +3728,7 @@ canvas {
 
 .product_block .block_title b {
     padding-top: 68%;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/98.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/98.png) 0 0 no-repeat;
     background-size: 400%;
     bottom: 8px;
     top: auto;
@@ -3946,13 +3946,13 @@ canvas {
     height: 61px;
     margin-top: -30px;
     width: 217px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/bW.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bW.png) 0 0 no-repeat;
     background-size: 100%;
     right: 9.6%;
 }
 
 .news_banner_item_2 .news_text {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bY.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bY.png);
     width: 235px;
     right: auto;
     left: 4%;
@@ -3960,14 +3960,14 @@ canvas {
 }
 
 .news_banner_item_3 .news_text {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/b!.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b!.png);
     width: 260px;
     right: 4.7%;
     margin-top: -36px;
 }
 
 .title_wrap em {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/b~.png) 50% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b~.png) 50% 0 no-repeat;
     background-size: 100%;
     display: block;
     position: absolute;
@@ -3978,15 +3978,15 @@ canvas {
 }
 
 .news_banner_item_2 .title_wrap em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dW.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dW.png);
 }
 
 .news_banner_item_3 .title_wrap em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dyy.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dyy.png);
 }
 
 .title_wrap i {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/c0.png) 50% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c0.png) 50% 0 no-repeat;
     background-size: 100%;
     display: block;
     width: 11px;
@@ -4002,7 +4002,7 @@ canvas {
 
 .title_wrap b {
     display: block;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/ej.png) 50% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ej.png) 50% 0 no-repeat;
     background-size: auto 300%;
     height: 30px;
     overflow: hidden;
@@ -4012,7 +4012,7 @@ canvas {
 
 .title_wrap span {
     display: block;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/bV.png) 50% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bV.png) 50% 0 no-repeat;
     width: 109px;
     height: 30px;
     line-height: 30px;
@@ -4066,7 +4066,7 @@ canvas {
     }
 
     .title_wrap em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/9.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9.svg);
         transition: transform .6s ease;
         transform: scale(2.29);
         transform-origin: 50% 93%;
@@ -4077,7 +4077,7 @@ canvas {
     }
 
     .news_banner_item_2 .title_wrap em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8.svg);
         transform: scale(1.66);
         transform-origin: 50% 74%;
         -webkit-transform: scale(1.66);
@@ -4086,7 +4086,7 @@ canvas {
     }
 
     .news_banner_item_3 .title_wrap em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/7.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/7.svg);
         transform: scale(1.23);
         transform-origin: 50% 60%;
         -webkit-transform: scale(1.23);
@@ -4243,7 +4243,7 @@ canvas {
 .news_sidebar_content .share_item {
     width: 47px;
     height: 47px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/cE.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cE.png) 0 0 no-repeat;
     display: inline-block;
     margin-right: 27px;
     cursor: pointer;
@@ -4489,92 +4489,92 @@ canvas {
 }
 
 .page_wrap-about_qywh .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8J.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8J.png);
 }
 
 .page_wrap-about_gsry .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8G.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8G.png);
 }
 
 .page_wrap-about_lxwm .banner_mask span b, .page_wrap-about_tzzq .banner_mask span b, .page_wrap-about_hr .banner_mask span b, .page_wrap-about_media .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8I.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8I.png);
 }
 
 .page_wrap-news_xwzx_page .banner_mask span b, .page_wrap-news_xwzx .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bS.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bS.png);
 }
 
 .page_wrap-news_zbxx .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/9Q.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9Q.png);
 }
 
 .page_wrap-duty_1 .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/aG.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aG.png);
 }
 
 .page_wrap-duty_2 .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/aH1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aH1.png);
 }
 
 .page_wrap-duty_3 .banner_mask span b, .page_wrap-duty_factory .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/aI.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aI.png);
 }
 
 .page_wrap-duty_4 .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dt.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dt.png);
 }
 
 .page_wrap-news_gccg .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/eh.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/eh.png);
 }
 
 .page_wrap-news_gkty .banner_mask span b, .page_wrap-news_gkty_post .banner_mask span b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/eh1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/eh1.png);
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.3),only screen and (min-device-pixel-ratio:1.3) {
     .page_wrap-about_jtjs .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cu.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cu.png);
     }
 
     .page_wrap-about_qywh .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cw.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cw.png);
     }
 
     .page_wrap-about_gsry .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ct.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ct.png);
     }
 
     .page_wrap-about_lxwm .banner_mask span b, .page_wrap-about_tzzq .banner_mask span b, .page_wrap-about_hr .banner_mask span b, .page_wrap-about_media .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cv.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cv.png);
     }
 
     .page_wrap-news_xwzx_page .banner_mask span b, .page_wrap-news_xwzx .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cA.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cA.png);
     }
 
     .page_wrap-news_zbxx .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cB.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cB.png);
     }
 
     .page_wrap-duty_1 .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cx.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cx.png);
     }
 
     .page_wrap-duty_2 .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cy.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cy.png);
     }
 
     .page_wrap-duty_3 .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cz.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cz.png);
     }
 
     .page_wrap-duty_4 .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/du.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/du.png);
     }
 
     .page_wrap-news_gkty .banner_mask span b, .page_wrap-news_gkty_post .banner_mask span b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ei.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ei.png);
     }
 }
 
@@ -4632,10 +4632,10 @@ canvas {
     right: 0;
     top: -30px;
     height: 30px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/dV.png) 0 100% repeat-x;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dV.png) 0 100% repeat-x;
     background: -webkit-gradient(linear,left top,left bottom,color-stop(0.00,rgba(248,247,243,0)),color-stop(1.00,rgba(248,247,243,1)));
     background: -moz-linear-gradient(top,rgba(248,247,243,0) 0,rgba(248,247,243,1) 100%);
-    *background: url(http://dedeoss.2ht.cn/mzy/static/images/dV.png) 0 100% repeat-x;
+    *background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dV.png) 0 100% repeat-x;
 }
 
 .block_view_more_content {
@@ -4699,7 +4699,7 @@ canvas {
     display: block;
     height: 0;
     padding-top: 143%;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/bl1.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bl1.png) 0 0 no-repeat;
     background-size: 100%;
 }
 
@@ -4720,7 +4720,7 @@ canvas {
 }
 
 .water_drop_wrap_1 .water_drop b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cj.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cj.png);
 }
 
 .water_drop_wrap_2 .water_drop {
@@ -4731,7 +4731,7 @@ canvas {
 
 .water_drop_wrap_2 .water_drop em {
     opacity: .7;
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bm1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bm1.png);
 }
 
 .water_drop_wrap_3 .water_drop {
@@ -4741,11 +4741,11 @@ canvas {
 }
 
 .water_drop_wrap_3 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bq1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bq1.png);
 }
 
 .water_drop_wrap_3 .water_drop b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/co.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/co.png);
 }
 
 .water_drop_wrap_4 .water_drop {
@@ -4755,7 +4755,7 @@ canvas {
 }
 
 .water_drop_wrap_4 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bv1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bv1.png);
 }
 
 .water_drop_wrap_5 .water_drop {
@@ -4766,11 +4766,11 @@ canvas {
 
 .water_drop_wrap_5 .water_drop em {
     opacity: .68;
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ch.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ch.png);
 }
 
 .water_drop_wrap_5 .water_drop b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cs.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cs.png);
 }
 
 .water_drop_wrap_6 .water_drop {
@@ -4780,11 +4780,11 @@ canvas {
 }
 
 .water_drop_wrap_6 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cd.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cd.png);
 }
 
 .water_drop_wrap_6 .water_drop b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cl.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cl.png);
 }
 
 .water_drop_wrap_7 .water_drop {
@@ -4795,7 +4795,7 @@ canvas {
 }
 
 .water_drop_wrap_7 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bw1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bw1.png);
 }
 
 .water_drop_wrap_8 .water_drop {
@@ -4807,11 +4807,11 @@ canvas {
 }
 
 .water_drop_wrap_8 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ce1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ce1.png);
 }
 
 .water_drop_wrap_8 .water_drop b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cm.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cm.png);
 }
 
 .water_drop_wrap_9 .water_drop {
@@ -4822,11 +4822,11 @@ canvas {
 }
 
 .water_drop_wrap_9 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ci.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ci.png);
 }
 
 .water_drop_wrap_9 .water_drop b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cq1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cq1.png);
 }
 
 .water_drop_wrap_10 .water_drop {
@@ -4837,7 +4837,7 @@ canvas {
 }
 
 .water_drop_wrap_10 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dK.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dK.png);
 }
 
 .water_drop_wrap_11 .water_drop {
@@ -4848,7 +4848,7 @@ canvas {
 }
 
 .water_drop_wrap_11 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dL.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dL.png);
 }
 
 .water_drop_wrap_12 .water_drop {
@@ -4860,7 +4860,7 @@ canvas {
 }
 
 .water_drop_wrap_12 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dJ1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dJ1.png);
 }
 
 .water_drop_wrap_13 .water_drop {
@@ -4871,7 +4871,7 @@ canvas {
 }
 
 .water_drop_wrap_13 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ce2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ce2.png);
 }
 
 .water_drop_wrap_14 .water_drop {
@@ -4884,7 +4884,7 @@ canvas {
 }
 
 .water_drop_wrap_14 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dI.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dI.png);
 }
 
 .water_drop_wrap_15 .water_drop {
@@ -4896,7 +4896,7 @@ canvas {
 }
 
 .water_drop_wrap_15 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dH.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dH.png);
 }
 
 .water_drop_wrap_16 .water_drop {
@@ -4906,7 +4906,7 @@ canvas {
 }
 
 .water_drop_wrap_16 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bx.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bx.png);
 }
 
 .water_drop_wrap_17 .water_drop {
@@ -4917,7 +4917,7 @@ canvas {
 }
 
 .water_drop_wrap_17 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dM.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dM.png);
 }
 
 .water_drop_wrap_18 .water_drop {
@@ -4928,11 +4928,11 @@ canvas {
 }
 
 .water_drop_wrap_18 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dO.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dO.png);
 }
 
 .water_drop_wrap_18 .water_drop b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dQ.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dQ.png);
 }
 
 .water_drop_wrap_19 .water_drop {
@@ -4943,7 +4943,7 @@ canvas {
 }
 
 .water_drop_wrap_19 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dP.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dP.png);
 }
 
 .water_drop_wrap_20 .water_drop {
@@ -4954,7 +4954,7 @@ canvas {
 }
 
 .water_drop_wrap_20 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dN.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dN.png);
 }
 
 .water_drop_wrap_21 .water_drop {
@@ -4966,7 +4966,7 @@ canvas {
 }
 
 .water_drop_wrap_21 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ce3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ce3.png);
 }
 
 .water_drop_wrap_22 .water_drop {
@@ -4976,7 +4976,7 @@ canvas {
 }
 
 .water_drop_wrap_21 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dS1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dS1.png);
 }
 
 .water_drop_wrap_23 .water_drop {
@@ -4988,7 +4988,7 @@ canvas {
 }
 
 .water_drop_wrap_23 .water_drop em {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dT1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dT1.png);
 }
 
 .m .water_drop_wrap_1 .water_drop {
@@ -5162,7 +5162,7 @@ canvas {
 
 @media only screen {
     .water_drop_wrap_1 .water_drop em, .water_drop_wrap_2 .water_drop em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/7.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/7.svg);
         opacity: .6;
     }
 
@@ -5171,11 +5171,11 @@ canvas {
     }
 
     .water_drop_wrap_3 .water_drop em, .water_drop_wrap_5 .water_drop em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8.svg);
     }
 
     .water_drop_wrap_4 .water_drop em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/9.svg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9.svg);
     }
 
     .water_drop_wrap_4 .water_drop em, .water_drop_wrap_5 .water_drop em {
@@ -5203,45 +5203,45 @@ canvas {
     }
 
     .water_drop_wrap_18 .water_drop b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dR.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dR.png);
     }
 
     .water_drop_wrap_3 .water_drop b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/co1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/co1.png);
     }
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.3),only screen and (min-device-pixel-ratio:1.3) {
     .water_drop_wrap_1 .water_drop em, .water_drop_wrap_2 .water_drop em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3W.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3W.png);
     }
 
     .water_drop_wrap_3 .water_drop em, .water_drop_wrap_5 .water_drop em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cg1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cg1.png);
     }
 
     .water_drop_wrap_4 .water_drop em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3Y.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3Y.png);
     }
 
     .water_drop_wrap_1 .water_drop b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ck.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ck.png);
     }
 
     .water_drop_wrap_3 .water_drop b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cp.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cp.png);
     }
 
     .water_drop_wrap_5 .water_drop b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3_.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3_.png);
     }
 
     .water_drop_wrap_8 .water_drop b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cn.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cn.png);
     }
 
     .water_drop_wrap_9 .water_drop b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cr.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cr.png);
     }
 }
 
@@ -5327,7 +5327,7 @@ canvas {
 }
 
 .video_play, .video_loading {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/9V.png) 50% 50% no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9V.png) 50% 50% no-repeat;
     background-size: 100%;
     width: 98px;
     height: 98px;
@@ -5344,7 +5344,7 @@ canvas {
 }
 
 .video_loading {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/a.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/a.gif);
     width: 60px;
     height: 60px;
     margin: -30px 0 0 -30px;
@@ -5354,7 +5354,7 @@ canvas {
 
 @media only screen {
     .video_loading {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3y1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3y1.png);
         -webkit-animation: loading 1s steps(12,end) infinite both;
         animation: loading 1s steps(12,end) infinite both;
         opacity: 0;
@@ -5379,7 +5379,7 @@ canvas {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/3w1.png) 0 0 repeat-x;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3w1.png) 0 0 repeat-x;
     background-size: 1px;
     height: 40px;
     transition: opacity .5s;
@@ -5422,9 +5422,9 @@ canvas {
 }
 
 .player_controls .trackbar .buffered {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/aZ.png);
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aZ.png);
     background: rgba(255,255,255,.3);
-    *background: url(http://dedeoss.2ht.cn/mzy/static/images/aZ.png);
+    *background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aZ.png);
 }
 
 .player_controls .trackbar .played {
@@ -5465,7 +5465,7 @@ canvas {
 }
 
 .player_controls .control_item i {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/bi.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bi.png) 0 0 no-repeat;
     background-size: 100%;
     width: 20px;
     height: 20px;
@@ -5533,19 +5533,19 @@ canvas {
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.3),only screen and (min-device-pixel-ratio:1.3) {
     .video_play {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/9W.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9W.png);
     }
 
     .video_loading {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3z.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3z.png);
     }
 
     .player_controls .slider_bar {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3x.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3x.png);
     }
 
     .player_controls .control_item i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bj1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bj1.png);
     }
 }
 
@@ -5571,7 +5571,7 @@ canvas {
 }
 
 .nav_bg {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/aZ.png);
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aZ.png);
     background: rgba(255,255,255,.7);
     position: absolute;
     left: 0;
@@ -5585,7 +5585,7 @@ canvas {
     overflow: hidden;
     text-indent: -100em;
     display: block;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/2Q.png) 50% 50% no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/2q.png) 50% 50% no-repeat;
     z-index: 20;
     position: relative;
 }
@@ -5624,7 +5624,7 @@ canvas {
     width: 40px;
     height: 56px;
     margin: 0 auto 13px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/3l.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3l.png) 0 0 no-repeat;
     cursor: pointer;
 }
 
@@ -5746,7 +5746,7 @@ canvas {
 .main_nav b {
     display: block;
     font-weight: normal;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/be.png) 50% 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/be.png) 50% 0 no-repeat;
     overflow: hidden;
     text-indent: -1000em;
     line-height: 1;
@@ -5914,7 +5914,7 @@ canvas {
 }
 
 .main_nav li ul a:hover {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/dZ1.png);
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dZ1.png);
     background: rgba(255,255,255,.2);
 }
 
@@ -6006,7 +6006,7 @@ canvas {
 }
 
 .page_wrap-home .footer {
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/dG.png);
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dG.png);
     position: absolute;
     left: 0;
     right: 0;
@@ -6017,7 +6017,7 @@ canvas {
     .footer {
         width: auto;
         max-width: none;
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/u.jpg);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/u.jpg);
         overflow: visible;
     }
 
@@ -6073,7 +6073,7 @@ canvas {
     margin: 0 auto 15px;
     width: 54px;
     height: 54px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/8X.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8x.png) 0 0 no-repeat;
     background-size: 108px;
 }
 
@@ -6096,7 +6096,7 @@ canvas {
 .footer .beian {
     width: 20px;
     height: 20px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/ef.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ef.png) 0 0 no-repeat;
     background-size: 100%;
     display: inline-block;
     margin-right: 5px;
@@ -6109,7 +6109,7 @@ canvas {
     display: block;
     width: 120px;
     height: 120px;
-    background: url(http://dedeoss.2ht.cn/mzy/static/images/9a.png) 0 0 no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9a.png) 0 0 no-repeat;
     margin-bottom: 3px;
 }
 
@@ -6355,7 +6355,7 @@ canvas {
 }
 
 .m .mobile_menu i, .m .logo:before {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8-.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8-.png);
     background-size: 116px;
 }
 
@@ -6372,7 +6372,7 @@ canvas {
 }
 
 .m .main_nav b {
-    background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bb.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bb.png);
 }
 
 .m .mobile_menu {
@@ -6674,21 +6674,21 @@ canvas {
     }
 
     .m .mobile_menu i, .m .logo:before {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8~.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8~.png);
     }
 
     .m .main_nav b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bc.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bc.png);
     }
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:3),only screen and (min-device-pixel-ratio:3) {
     .m .mobile_menu i, .m .logo:before {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8~1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8~1.png);
     }
 
     .m .main_nav b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bd.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bd.png);
     }
 }
 
@@ -6797,187 +6797,187 @@ canvas {
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.3),only screen and (min-device-pixel-ratio:1.3) {
     .prize_cate_wrap .tab_item_content .bg_2, .prize_cate_wrap .tab_item_content .bg_3 {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/eb.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/eb.png);
     }
 
     .slider_handle {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/b2.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b2.png);
     }
 
     .block_images .scroller_wrap .slider_handle {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/b4.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b4.png);
     }
 
     .block_product_list .slider_handle {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/b6.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b6.png);
     }
 
     .block_prize_list .slider_handle {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ee.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ee.png);
     }
 
     .logo {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/2R.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/2R.png);
         background-size: 72px;
     }
 
     .text_about_title {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c3.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c3.png);
         background-size: 100%;
     }
 
     .main_nav a i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3m.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3m.png);
         background-size: 135px;
     }
 
     .main_nav b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bf.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bf.png);
         background-size: 100px;
     }
 
     .scroller_page b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/3F.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/3F.png);
     }
 
     .banner_mask span {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/d_.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/d_.png);
     }
 
     .block_link .link_item {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/e9.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/e9.png);
         background-size: 194px;
     }
 
     .contact_content .contact_item_text .content_title {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8L.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8L.png);
     }
 
     .social_item i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/8Y.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/8Y.png);
     }
 
     .social_item .qrcode {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/9b1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9b1.png);
         background-size: 120px;
     }
 
     .product_column .block_title b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/99.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/99.png);
     }
 
     .web .footer .beian {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/eg.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/eg.png);
     }
 
     .contact_tab_wrap .contact_tab_1 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/a8.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/a8.png);
     }
 
     .contact_tab_wrap .contact_tab_2 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/aa.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/aa.png);
     }
 
     .contact_tab_wrap .contact_tab_3 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ac.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ac.png);
     }
 
     .contact_tab_wrap .contact_tab_4 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ae.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ae.png);
     }
 
     .page_wrap-about_lxwm .contact_tab_wrap .contact_tab_1 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ag1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ag1.png);
     }
 
     .page_wrap-about_tzzq .contact_tab_wrap .contact_tab_2 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ai1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ai1.png);
     }
 
     .page_wrap-about_hr .contact_tab_wrap .contact_tab_3 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ak.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ak.png);
     }
 
     .page_wrap-about_media .contact_tab_wrap .contact_tab_4 b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/am.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/am.png);
     }
 
     .m .page_wrap-duty .banner_item_1 i, .page_wrap-duty .banner_item_2 i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c6.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c6.png);
     }
 
     .m .page_wrap-duty .banner_item_2 i, .page_wrap-duty .banner_item_3 i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c8.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c8.png);
     }
 
     .m .page_wrap-duty .banner_item_3 i, .page_wrap-duty .banner_item_4 i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ca1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ca1.png);
     }
 
     .m .page_wrap-duty .banner_item_4 i, .page_wrap-duty .banner_item_5 i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dw1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dw1.png);
     }
 
     .water_column_1 em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bK1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bK1.png);
     }
 
     .water_column_2 em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bM2.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bM2.png);
     }
 
     .water_column_3 em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bO1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bO1.png);
     }
 
     .water_column_4 em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bQ2.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bQ2.png);
     }
     .water_column_5 em {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bQ2.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bQ2.png);
     }
 
     .news_banner_item_1 .news_text {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bX1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bX1.png);
     }
 
     .news_banner_item_2 .news_text {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/bZ.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/bZ.png);
     }
 
     .news_banner_item_3 .news_text {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/b_.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/b_.png);
     }
 
     .news_banner_item .title_wrap i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/c1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/c1.png);
     }
 
     .news_banner_item .title_wrap b {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/ek.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/ek.png);
     }
 
     .pagination .prev, .pagination .next {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cD1.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cD1.png);
     }
 
     .news_sidebar_content .share_item {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/cF.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/cF.png);
         background-size: 141px;
     }
 
     .success_message i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/9l.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/9l.png);
     }
 
     .download_button {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/dF.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/dF.png);
     }
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:3),only screen and (min-device-pixel-ratio:3) {
     .main_nav a i {
-        background-image: url(http://dedeoss.2ht.cn/mzy/static/images/95.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/sw586/xr_cdn/static/minzhiyuan/images/95.png);
     }
 }
 
