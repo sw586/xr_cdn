@@ -429,7 +429,7 @@ input::-webkit-inner-spin-button,input::-webkit-outer-spin-button{-webkit-appear
 .baner-j2 .item .con-j2{background-color:#f1f1f1}
 .baner-j2 .item .con-j:hover .txt h3{color:#910000}
 .baner-j2 .item .con-j:hover{box-shadow:none}
-.ban{background-position:center center;background-size:cover;background-repeat:no-repeat;height:550px;position:relative}
+.ban{background-position:center center;background-size:cover;background-repeat:no-repeat;height:738px;position:relative}
 .ban .m-tit-t{position:absolute;top:50%;left:20px;right:20px;text-align:center;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%);transform:translateY(-50%)}
 .ban .m-tit-t h3{font-size:48px;color:#fff;margin-bottom:13px;line-height:1.3em;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;-webkit-text-shadow:0 0 6px rgba(0,0,0,.4);-moz-text-shadow:0 0 6px rgba(0,0,0,.4);-ms-text-shadow:0 0 6px rgba(0,0,0,.4);-o-text-shadow:0 0 6px rgba(0,0,0,.4);text-shadow:0 0 6px rgba(0,0,0,.4)}
 .ban .m-tit-t span{display:block;font-size:24px;color:#fff;line-height:1.3em;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;-webkit-text-shadow:0 0 3px rgba(0,0,0,.5);-moz-text-shadow:0 0 3px rgba(0,0,0,.5);-ms-text-shadow:0 0 3px rgba(0,0,0,.5);-o-text-shadow:0 0 3px rgba(0,0,0,.5);text-shadow:0 0 3px rgba(0,0,0,.5)}
