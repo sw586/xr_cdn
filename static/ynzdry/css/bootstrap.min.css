@@ -2704,7 +2704,9 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 	left: auto
 }
 @media (min-width:768px) {
-
+.nav-justified>li {
+	display: table-cell;
+}
 .nav-justified>li>a {
 	margin-bottom: 0
 }
