@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>乍甸乳业——西南生态牧场，滇南乳业制品企业</title>
+    <script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/js/zzsc.js"></script>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/lib.min.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/resources/web/lib/H5shiv.js"></script>
+    <![endif]-->
+    <link href="css/index.css" rel="stylesheet">
+    <!--转向手机端-->
+    <meta http-equiv="mobile-agent" content="format=xhtml;url=/m/index.php">
+    <script type="text/javascript">if (window.location.toString().indexOf('pref=padindex') != -1) {
+    } else {
+        if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+            if (window.location.href.indexOf("?mobile") < 0) {
+                try {
+                    if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                        window.location.href = "/m/index.php";
+                    } else if (/iPad/i.test(navigator.userAgent)) {
+                    } else {
+                    }
+                } catch (e) {
+                }
+            }
+        }
+    }</script>
+</head>
+<body id="index">
+<!-- 头部导航开始 -->
+<link href="/css/page_index.css" rel="stylesheet" type="text/css" />
+   <link href="/style/css/main.css" rel="stylesheet">
+   <link href="/style/css/common.css" rel="stylesheet">
+   <link href="/style/css/bootstrap.min.css" rel="stylesheet">
+   <link href="/style/css/style.css" rel="stylesheet">
+
+
+<!-- 头部导航开始 -->
+<header>
+    <div class="container">
+
+        <li class="logo"><img src="/style/picture/32b7d839-65d0-4659-b5af-8c2f54d2e429.png" alt="" width="65"
+                              height="65"></li>
+        <ul id="navigation" class="nav nav-pills nav-justified" role="navigation">
+         
+
+
+            
+              <li><a href='/p/list.php?tid=1'>乍甸乳业</a></li>
+            
+              <li><a href='/p/list.php?tid=39'>订奶商城</a></li>
+            
+              <li><a href='/p/list.php?tid=6'>新闻资讯</a></li>
+            
+              <li><a href='/p/list.php?tid=28'>牛奶与健康</a></li>
+            
+              <li><a href='/p/list.php?tid=29'>招贤纳士</a></li>
+            
+              <li><a href='/p/list.php?tid=14'>加盟合作</a></li>
+            
+              <li><a href='/p/list.php?tid=17'>联系我们</a></li>
+            
+
+
+
+
+
+           
+        </ul>
+    </div>
+</header>
+<!-- 头部导航结束 -->
+<!-- 头部导航结束 -->
+<div id="box_main">
+    <div id="box_main_sub1">
+        <!-- 一列栏目开始 -->
+        <!-- 一列栏目结束 -->
+        <div class="clearBoth"></div>
+        <DIV xmlns="" class="columnSpace" id="elem-FrontPublic_slideShow01-1464071161637" name="公用幻灯">
+            <script type="text/javascript" src="/js/frontpublic_slideshow01.js"></script>
+            <script type="text/javascript" src="/js/superslide.2.1.js"></script>
+            <div id="FrontPublic_slideShow01-1464071161637" class="FrontPublic_slideShow01-d6_c1">
+                <div class="fullSlide">
+                    <div class="bd">
+                        <ul>
+                            
+                            <li><a href="#" class="f_pic"> <img
+                                    src="http://dedeoss.2ht.cn/uploads/180620/1-1P62015534I01.jpg"/> </a> <a href="#"class="f_title"> </a>
+                            </li>
+
+                            
+                            
+                        </ul>
+                    </div>
+                    <div class="hd">
+                        <ul>
+                        </ul>
+                    </div>
+                    <span class="prev"></span> <span class="next"></span></div>
+                <script type="text/javascript">
+                    $(".fullSlide").hover(function () {
+                            $(this).find(".prev,.next").stop(true, true).fadeTo("show", 0.5)
+                        },
+                        function () {
+                            $(this).find(".prev,.next").fadeOut()
+                        });
+                    $(".fullSlide").slide({
+                        titCell: ".hd ul",
+                        mainCell: ".bd ul",
+                        effect: "fold",
+                        autoPlay: true,
+                        autoPage: true,
+                        trigger: "click",
+                        interTime: "20" * 1000,
+                        startFun: function (i) {
+                            var curLi = jQuery(".fullSlide .bd li").eq(i);
+                            if (!!curLi.attr("_src")) {
+                                curLi.css("background-image", curLi.attr("_src")).removeAttr("_src")
+                            }
+                        }
+                    });
+                </script>
+            </div>
+        </DIV>
+    </div>
+    <body class="Heng">
+    <section class="ipart ipart01">
+        <div class="wrap fix">
+            <div class="com_hd">
+                <h2 class="_n">乍甸乳业“传递新鲜60年”</h2>
+                <div class="_text">
+                    乍甸乳业在云南率先启动了“公司+合作社+农户+基地”模式，先后获得“省级农业产业化重点龙头企业”称号，“云南省著名商标”等荣誉，是西南优质生态牧场，滇南重点乳业制品企业之一。
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--乐产品-->
+    <div class="product_box container">
+        <!-- 移动端显示-->
+        <div class="title">
+            <h3>产品</h3>
+            <div>
+                <hr class="left">
+                <hr class="right">
+            </div>
+            <p>Lepur Stores</p>
+        </div>
+        <div class="row">
+ 
+ 
+ 
+ 
+            
+            <div class="col-lg-4   col-md-6 col-sm-6 col-xs-4">
+                <section class="img_box">
+                  <a href="/p/view.php?aid=63">  <img src="http://dedeoss.2ht.cn/uploads/180821/1-1PR1110K9645.jpg" alt="森林牧场鲜牛乳"></a>
+                </section>
+            </div>
+<div class="col-lg-4   col-md-6 col-sm-6 col-xs-4">
+                <section class="img_box">
+                  <a href="/p/view.php?aid=84">  <img src="http://dedeoss.2ht.cn/uploads/180612/1-1P612110I5218.jpg" alt="森林牧场甜牛奶"></a>
+                </section>
+            </div>
+<div class="col-lg-4   col-md-6 col-sm-6 col-xs-4">
+                <section class="img_box">
+                  <a href="/p/view.php?aid=86">  <img src="http://dedeoss.2ht.cn/uploads/181114/1-1Q1141J05V09.png" alt="酸酸乳原味"></a>
+                </section>
+            </div>
+<div class="col-lg-4   col-md-6 col-sm-6 col-xs-4">
+                <section class="img_box">
+                  <a href="/p/view.php?aid=66">  <img src="http://dedeoss.2ht.cn/uploads/180821/1-1PR111025c47.jpg" alt="乍甸酸酸乳"></a>
+                </section>
+            </div>
+
+            
+            
+            
+            
+            
+            <div class="col-lg-4  col-md-6 col-sm-6 col-xs-4  pro_query">
+                <img src="/style/picture/pro_query.jpg" alt="背景">
+                <section>
+                    <!-- 移动端隐藏-->
+                     <div class="mo_hide">
+                        <h3>新鲜相伴60年</h3>
+                      
+                        <hr>
+                    </div>
+                  
+                    <a href="/p/list.php?tid=36" class="Analysis" data-analysis="banner_about"><span>查看更多<em></em></span></a>
+                    
+                  
+                    
+                    <img class="mo_hide" src="/style/picture/triangle.jpg" alt=""> 
+                </section>
+            </div>
+                       <div class="col-lg-4   col-md-6 col-sm-6 col-xs-4">
+                <section class="img_box">
+                  <a href="/p/view.php?aid=65">  <img src="http://dedeoss.2ht.cn/uploads/171106/1-1G106142914D3.jpg" alt="森林牧场慢酵酸牛奶"></a>
+                </section>
+            </div>
+
+        </div>
+    </div>
+
+    <section class="ipart ipart03">
+        <div class="wrap fix">
+            <div class="com_hd">
+                <h2 class="_n">牛奶与健康</h2>
+                <div class="_text"> 关注得益乳业资讯，浏览得益乳业精彩活动，助您了解权威、快捷、全面的乳业新闻。</div>
+            </div>
+            <div class="com_bd">
+                <div class="i_etc fix">
+                    <div class="inews">
+                        <div class="hd"><a href="/news/qiyedongtai.jsp" target="_blank" title="新闻动态">
+                            <h2 class="n">饮奶健康<span class="en">Healthy
+            </span></h2>
+                        </a>
+                            <div class="_img UnmobilePush pushed"><img src="/resources/web/img/i_etc_img01.jpg"></div>
+                        </div>
+                        <div class="bd">
+                            <ul id="news">
+                                
+                                
+                                
+                               <li class="hover"><span class="_time"><b class="_day">30</b><b
+                  
+                                        class="_month">/10</b><em>/</em>2017</span> 
+                                        
+                                        <a href="/p/view.php?aid=62" title="喝牛奶，喝新鲜的更好"
+                                        target="_blank">
+                                    <h3 class="_t">喝牛奶，喝新鲜的更好</h3>
+                                    <div class="_text"> “ 为你我愿钻进密封的集装箱 只为漂洋过海的来看你 接受过 高温灭菌洗礼 只为多留半年等你 ——进口牛奶的自诉 ” 中国奶业协会会长高鸿宾 有一些消费者是盲目消费进口牛奶，实...</div>
+                                </a></li>
+
+                                
+                                 <li class=""><span class="_time"><b class="_day">30</b><b
+                                        class="_month">/08</b><em>/</em>2017</span> <a
+                                        href="/p/view.php?aid=61" title="摘要！" target="_blank">
+                                    <h3 class="_t">儿童奶坑你又坑娃，别被</h3>
+                                    <div class="_text"> keng 吭 ni 你 mei 没 shang 商 liang 量 本期话题|聊聊儿童奶 不知道从什么时候开始， 只要冠上「儿童专用」，身价蹭蹭往上涨。 价格虽贵，却任然备受家长追捧。 儿童奶真 有宣传的那么...</div>
+                                </a></li>
+
+                               
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="interaction">
+                        <div class="iact"><a href="#" target="_blank" title="精彩活动">
+                            <h2 class="n">精彩活动<span class="en">Activity</span></h2>
+                        </a></div>
+                        <div class="ivideo">
+                             
+                                
+                                </div>
+                        <div class="ilife">
+                            <h2 class="n">营养与健康</h2>
+                            <ul class="_list" id="jiankang">
+                                <li><a href="/p/view.php?aid=72" title="一篇文章，帮你挑出专属" target="_blank">一篇文章，帮你挑出专属</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div id="box_main_sub4">
+        <div id="box_main_sub4_sub1">
+            <div id="box_main_sub4_sub1_sub1">
+                <DIV xmlns="" class="columnSpace" id="elem-FrontSpecifies_show01-1464084511084" name="说明页">
+                    <div id="FrontSpecifies_show01-1464084511084" class="FrontSpecifies_show01-d1_c1">
+                        <div id="syxw">新闻中心</div>
+                    </div>
+                </DIV>
+            </div>
+            <div id="box_main_sub4_sub1_sub2">
+                <DIV xmlns="" class="columnSpace" id="elem-FrontNews_list01-1464084570598" name="资讯列表">
+                    <div id="FrontNews_list01-1464084570598" class="FrontNews_list01-d2_c2">
+                        <div>
+                            <ul class="comstyle newslist-01">
+                                
+                                
+                                
+                                
+                                <li class="content column-num4">
+                                    <div class="pic"><a href="/p/view.php?aid=43" title="厉害了，我的森林牧场"
+                                                        target="_self"> <img
+                                            src="http://dedeoss.2ht.cn/uploads/171103/1-1G10316341J07.png"
+                                            alt="厉害了，我的森林牧场" title="厉害了，我的森林牧场"/></a></div>
+                                    <div class="main">
+                                        <div class="newstitle">
+                                            <ul>
+                                                <li class="title">
+                                                    <h3><a href="/p/view.php?aid=43" title="厉害了，我的森林牧场"
+                                                           target="_self"> 厉害了，我的森林牧场
+                                                    </a></h3>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="newslist">
+                                            <ul>
+                                                <li class="summary">
+                                                    <h3>概要：</h3>
+                                                    <p>2017SWLAC上海世界拉花大赛，亦同时在此期间开展，此次比赛所用的牛奶由我们的森林牧场系列全—程赞助，
+我们的鲜牛乳与慢酵酸牛奶亦毫不逊色前来咨询的人们络绎不绝，亦受到外国友人...<a class="detail"
+                                                                         href="/p/view.php?aid=43" title="详细"
+                                                                         target="_self">详细&gt;&gt;</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                                <li class="clearBoth"></li>
+                            </ul>
+                        </div>
+                    </div>
+                </DIV>
+            </div>
+        </div>
+    </div>
+</div>
+<!--foot-->
+<!--foot-->
+<footer class="pageFooter">
+    <div class="wrap fix">
+        <div class="foot01 fix">
+            <dl>
+                <dt><a href="http://www.ynzdry.com/p/list.php?tid=1" target="">乍甸乳业</a></dt>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=2" target="">企业简介</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=3">企业文化</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=4">发展历程</a></dd>
+         
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=24">企业荣誉</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=17">联系我们</a></dd>
+            </dl>
+            <dl>
+                <dt><a href="#">品牌产品</a></dt>
+                <dd><a href="http://mall.ynzdry.com/">鲜奶</a></dd>
+                <dd><a href="http://mall.ynzdry.com/">酸奶</a></dd>
+                <dd><a href="http://mall.ynzdry.com/">乳饮料</a></dd>
+            </dl>
+            <dl>
+                <dt><a href="#" target="">品牌服务</a></dt>
+                <dd><a href="http://mall.ynzdry.com/">网上订奶</a></dd>
+                <dd><a href="#">营销网络</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=19">在线留言</a></dd>
+            </dl>
+            <dl>
+                <dt><a href="#" target="">牛奶与健康</a></dt>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=37">饮奶健康</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=38">精彩活动</a></dd>
+            </dl>
+            <dl>
+                <dt><a href="http://www.ynzdry.com/p/list.php?tid=6" target="">新闻中心</a></dt>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=7">企业动态</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=20">活动公告</a></dd>
+      
+            </dl>
+            <dl>
+                <dt><a href="#">招贤纳士</a></dt>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=29">社会招聘</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=29">校园招聘</a></dd>
+
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=18">联系方式</a></dd>
+                <dd><a href="http://www.ynzdry.com/p/list.php?tid=19">简历投递</a></dd>
+            </dl>
+            <dl class="contact">
+                <dt><a href="#">联系我们</a></dt>
+                <dd class="ewm fix"> <img src="/style/picture/f_ewm.png" class="_img"> 扫一扫<br>
+                    进入手机站 </dd>
+                <dd>电话：<a href="tel:400-676-3321">400-676-3321</a></dd>
+                <dd>邮箱：<a href="mailto:zdryhr@126.com">zdryhr@126.com</a></dd>
+                <dd>地址云南省红河州个旧市鸡街镇乍甸乳业</dd>
+            </dl>
+
+        </div>
+        <div class="foot02 fix">
+            <div class="links"> <span>Copyright ©<a href="/" title="Copyright ©云南乍甸乳业股份有限公司">云南乍甸乳业有限责任公司</a>版权所有 <a href="http://www.miibeian.gov.cn/" target="_blank"> 滇ICP备17003932号-1</a></span> <span><a href="#">法律声明</a><em>|</em><a href="#">网站地图</a></span> </div>
+        </div>
+    </div>
+    <div style="display:none;">
+</footer>
+<!--foot end-->
+
+<!-- 底部版权结束 -->
+<!--foot-->
+</body>
+</html>
+<!--产品家族3D-->
+<script type="text/javascript" src="/resources/modules/roundabout.js"></script>
+<script>$(".ipsc").roundabout({
+    minOpacity: 1,
+    btnPrev: ".ips_prev",
+    btnNext: ".ips_next",
+    autoplay: true,
+    autoplayDuration: 5000
+});</script>
+<!--产品家族3D-->
+<!-- 底部版权结束 -->

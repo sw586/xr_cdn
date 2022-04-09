@@ -54,3 +54,4 @@
     {/vars}
     </tbody>
 </table>
+
